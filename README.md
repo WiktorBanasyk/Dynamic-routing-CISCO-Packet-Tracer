@@ -9,8 +9,9 @@ I present tutorial about this topic and I talk about step by step how to create 
 
 Lab - Dynamic routing in Cisco Packet Tracer
 
-
-1.  If we have opened program, we could create our own environment. So, we could create for example: 15 routers. We can pick Router-PT-Empty
+1. Create enviroment
+1.1  If we have opened program, we could create our own environment. So, we could create for example: 15 routers. We can chose Router-PT-Empty. 
 
 ![image](https://github.com/WiktorBanasyk/Dynamic-routing-CISCO-Packet-Tracer/assets/150059679/5827f5a1-568b-4103-adfa-aae1ad5fef2c)
+1.2
 
